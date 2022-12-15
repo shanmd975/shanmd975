@@ -1,7 +1,7 @@
 @@ -1,12 +1,12 @@
 <img src="https://media.tenor.com/L5g2mZgoLykAAAAC/office-of-course.gif" width="500" title="Yes I love One Piece ☠" alt="Luffy saying hello!">
 # I'm **Mohammad Shanoor** 😎
-- 🎓 I'm Completed my Postgraduationin MSC(CS) **[Princeton Degree&PG Colleage ]**!
+- 🎓 I'm Completed my Postgraduation 2017 in MSC(CS) **[Princeton Degree&PG Colleage ]**!
 - 🔭 I’m currently working on Infoesearch Private Limited Company.
 - 🌱 I’m currently learning about Full Stack Web Application in Java, HTML,CSS,JAVASCRIPT😎  
 - 📫 You can reach me through mail via [(shanmd975@gmail.com)]
