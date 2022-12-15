@@ -4,7 +4,7 @@
 - 🎓 I'm Completed my Postgraduationin MSC(CS) **[Princeton Degree&PG Colleage ]**!
 - 🔭 I’m currently working on Infoesearch Private Limited Company.
 - 🌱 I’m currently learning about Full Stack Web Application in Java, HTML,CSS,JAVASCRIPT😎  
-- 📫 You can reach me through mail via [Gmail](shanmd975@gmail.com)
+- 📫 You can reach me through mail via [(shanmd975@gmail.com)]
 - 📫 You can reach me through mail at shanumohammad456@gmail.com 
 
 ### ⚡ Technologies
