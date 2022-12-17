@@ -1,5 +1,5 @@
 @@ -1,12 +1,12 @@
-<img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" "https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="500" title="Yes I love One Piece ☠" alt="Luffy saying hello!">
+<img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" width="500" title="Yes I love One Piece ☠" alt="Luffy saying hello!">
 # I'm **Mohammad Shanoor** 😎
 - 🎓 I'm Completed my Postgraduation 2017 in MSC(CS) **[Princeton Degree&PG Colleage ]**!
 - 🔭 I’m currently working on Infoesearch Private Limited Company.
